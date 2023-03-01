@@ -12,11 +12,11 @@ class Login extends Component {
                                 <form>
                                     <div class="form-group">
                                         <label for="correo" class="text-white">Correo</label>
-                                        <input id="correo" name="correo" class="form-control" type="email" placeholder="Correo electrónico">
+                                        <input type="email"  id="correo" name="correo" class="form-control"/>
                                     </div>
                                     <div class="form-group">
                                         <label for="palabraSecreta" class="text-white">Contraseña</label>
-                                        <input id="palabraSecreta" name="contraseña" class="form-control" type="password" placeholder="Contraseña">
+                                        <input type="password" id="palabraSecreta" name="contraseña" class="form-control"/>
                                     </div>
                                     <button type="submit" class="btn btn-info mb-2">Entrar</button>
                                 </form>
