@@ -7,3 +7,4 @@ LUBIA RUBIO CAMACHO					1738473 |
 
 
 Es una página para compartir posts o notas, ya sea que sean públicas o privadas
+Eso y algo como: En la que los usuarios con acceso a notas públicas pueden ver en tiempo real la edición de estás mismas
